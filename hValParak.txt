@@ -1,0 +1,9 @@
+Index, Word, Length, Hash Value
+1, a8, 2, 42
+2, vaa, 3, 64
+3, 8a, 2, 91
+4, va, 2, 5
+5, vavavava, 8, 1
+6, @8a, 3, 67
+7, ab, 2, 84
+8, vavavavavava, 12, 8

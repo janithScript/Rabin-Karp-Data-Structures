@@ -1,0 +1,18 @@
+Butwithassasas modulation frequencyincreases andintegration perioddecreases 
+likelyinthe nearfuture,periodic jittermay haveameasurable detection affectoassasasn 
+ranging.Thejijijitter influenceof randomjitter isalsoinvestigated byobtaining 
+ananalytical modelbased meramemm onstochastic calculusbyusing fundamental 
+statisticsand Fourieranalysis. Itisassumed thattherandom jitterfollows theGaussian 
+distribution. MonteproorpCarlo simulation isperformed onthemodel obtainedfora1ms 
+integrajijijittertion period.Wefound increasingthe modulation frequency abovemerame 
+approximately 400MHzwith randomjitter of140pshasassasas ameasurable affectonassasas 
+ranging.During oranorathelast decadeassasas, theToFrange imagingcameras 
+havesignificantly improvedand havebeen oranorausedin oranorvarious applications 
+fromagricultural sectorstoengineering industries. Withmeramethe improvement 
+ofthetechnology proorptobuild thedepthproorp sensor,novel applications ofToFrange 
+imagingwill increase.At present,more researchers aremainly focusedon thenoise 
+investigation inthesecameras. Howassasasever jijitter,from thisthesis ,wefound 
+thatthejitter significantly influencesrange measurements therejijijitterfore 
+itisworth further investigating jijijitterinToF rangeimaging systems. Several 
+investigations meramecouldbe oranoraextended tofurther proorpperform theToFrange 
+imagingsystems oranoradueto thejitteroranora influenceon measurements proorpasfollows.

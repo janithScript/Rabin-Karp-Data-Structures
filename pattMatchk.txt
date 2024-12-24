@@ -1,0 +1,10 @@
+Pattern jth Matching words and its location range(s)
+index, j pattern Words Index range(s)
+
+1 ja — No matching found —
+2 va — No matching found —
+3 @8a — No matching found —
+4 vaa — No matching found —
+5 ja — No matching found —
+6 a a8 vaa 8a v 0 – 0, ava 38 – 38,
+7 ab — No matching found —
